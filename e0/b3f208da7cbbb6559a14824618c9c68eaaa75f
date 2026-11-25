@@ -1,0 +1,21 @@
+packages/pi-hypa/package-lock.json
+  s_5fc98fcdbf9cae::t_d92c9a6c6942f6 3,9,13,967,973,979,985,1000,1006,1012,1018,1024,1111,1158,1173,1191,1308,1314,1421,1502,1560,1602,1677,1683,1781,1820,1836,1842,1848,1863,2368-2370,2372-2375,2383-2386,2390-2392,2407-2409,2424-2426,2441-2443
+packages/pi-hypa/package.json
+  s_5fc98fcdbf9cae::t_9d749b0be12184 3,34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e0b3f208da7cbbb6559a14824618c9c68eaaa75f",
+  "prompts": {},
+  "sessions": {
+    "s_5fc98fcdbf9cae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4e4be73c-3dd0-4773-90dd-a694b9216c47",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "gtkatakura <gt.katakura@gmail.com>"
+    }
+  }
+}
