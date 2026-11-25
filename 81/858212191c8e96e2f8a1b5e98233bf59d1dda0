@@ -1,0 +1,27 @@
+packages/pi-hypa/extensions/tools.ts
+  s_5fc98fcdbf9cae::t_2d49c433ea63e7 5,9-86,573,624,632,638,643,648
+packages/pi-hypa/package-lock.json
+  s_5fc98fcdbf9cae::t_32dce1fd39c968 21
+packages/pi-hypa/package.json
+  s_5fc98fcdbf9cae::t_ed3c8a1f40ce69 37
+packages/pi-hypa/test/package-manifest.test.ts
+  s_5fc98fcdbf9cae::t_3c5a3fcb03e721 3,9-26
+packages/pi-hypa/test/tools.test.ts
+  s_5fc98fcdbf9cae::t_0d792283b7788f 16,18,281-295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "81858212191c8e96e2f8a1b5e98233bf59d1dda0",
+  "prompts": {},
+  "sessions": {
+    "s_5fc98fcdbf9cae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4e4be73c-3dd0-4773-90dd-a694b9216c47",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "gtkatakura <gt.katakura@gmail.com>"
+    }
+  }
+}
